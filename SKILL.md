@@ -247,15 +247,35 @@ Avant restitution :
 
 3. **Arbitrages recommandes** : frais reels vs 10 %, PFU vs bareme, micro vs reel, rattachement vs pension - avec calcul chiffre.
 
-4. **Documents justificatifs a reunir** : recus fiscaux type CERFA (dons, PER, Madelin, SOFICA), IFU (2561), attestations CESU Urssaf, factures RGE (travaux), bails (fonciers), acte notarie (immo), justificatifs etrangers.
+4. **Tableau recapitulatif "Quoi remplir, dans quelle case"** (obligatoire) :
 
-5. **Points de vigilance** : plafonnement niches, delais de reprise, obligations declaratives 3916-bis, attention a l'abus de droit.
+   Presente en fin de restitution un tableau clair que l'utilisateur peut suivre ligne par ligne en remplissant sa 2042. Colonnes obligatoires :
 
-6. **Sources** : lister les articles CGI / BOI-XXX / pages impots.gouv.fr ou service-public.gouv.fr utilisees.
+   | Formulaire | Case | Libelle | Montant a saisir | Justificatif |
+   |---|---|---|---|---|
+   | 2042 | 1AJ | Salaires declarant 1 | {montant} € | Attestation fiscale employeur |
+   | 2042 RICI | 7UD | Dons organismes aide aux personnes (75 %) | {montant} € | Recu fiscal CERFA 11580 |
+   | 2042 | 6NS | Cotisations PER declarant 1 | {montant} € | Attestation PER |
+   | ... | ... | ... | ... | ... |
 
-7. **Limites et renvoi expert** : rappeler que seul un avocat fiscaliste ou expert-comptable engage sa responsabilite ; situations complexes imperativement traitees par un professionnel.
+   Regles de construction du tableau :
+   - **Une ligne par case a remplir** (pas une par dispositif : un dispositif peut cibler plusieurs cases).
+   - **Indiquer le formulaire** (2042, 2042 RICI, 2042 C PRO, 2044, 2047, 2074, 2086, 3916-bis, etc.).
+   - **Case exacte** (1AJ, 1BJ, 7DB, 7UF, 4BE, 6QS, 8TK…). Si la case depend de l'ordre des conjoints, le preciser.
+   - **Montant calcule** a partir des reponses de l'utilisateur (pas une fourchette).
+   - **Justificatif a conserver** : nom du document (attestation, IFU 2561, recu CERFA, facture RGE, bail, acte notarie).
+   - Ajouter une ligne "**Ne rien remplir**" pour rappeler ce qui est deja pre-rempli par l'administration (salaires, retraites, IFU) et qu'il faut juste **verifier**.
+   - Terminer par une ligne "**Penser a cocher**" si des cases booleennes sont pertinentes (2OP option bareme, T parent isole, case L…).
 
-8. **Conseils d'optimisation pour l'annee en cours et a venir** (obligatoire, meme si IR = 0) :
+5. **Documents justificatifs a reunir** : recus fiscaux type CERFA (dons, PER, Madelin, SOFICA), IFU (2561), attestations CESU Urssaf, factures RGE (travaux), bails (fonciers), acte notarie (immo), justificatifs etrangers.
+
+6. **Points de vigilance** : plafonnement niches, delais de reprise, obligations declaratives 3916-bis, attention a l'abus de droit.
+
+7. **Sources** : lister les articles CGI / BOI-XXX / pages impots.gouv.fr ou service-public.gouv.fr utilisees.
+
+8. **Limites et renvoi expert** : rappeler que seul un avocat fiscaliste ou expert-comptable engage sa responsabilite ; situations complexes imperativement traitees par un professionnel.
+
+9. **Conseils d'optimisation pour l'annee en cours et a venir** (obligatoire, meme si IR = 0) :
 
    Cette section projette l'utilisateur au-dela de la declaration en cours pour l'aider a **reduire son IR futur** ou a **optimiser son RFR**. Adapter au profil (TMI, situation familiale, patrimoine, projets).
 
