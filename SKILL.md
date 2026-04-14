@@ -255,6 +255,38 @@ Avant restitution :
 
 7. **Limites et renvoi expert** : rappeler que seul un avocat fiscaliste ou expert-comptable engage sa responsabilite ; situations complexes imperativement traitees par un professionnel.
 
+8. **Conseils d'optimisation pour l'annee en cours et a venir** (obligatoire, meme si IR = 0) :
+
+   Cette section projette l'utilisateur au-dela de la declaration en cours pour l'aider a **reduire son IR futur** ou a **optimiser son RFR**. Adapter au profil (TMI, situation familiale, patrimoine, projets).
+
+   Structure la section ainsi :
+
+   a. **Rappel prealable** (obligatoire) :
+      > Les pistes ci-dessous sont indicatives. Avant toute decision (don, PER, investissement defiscalisant, travaux), **renseignez-vous precisement** sur impots.gouv.fr, simulez sur le simulateur officiel, et pour tout engagement significatif (> 1 000 €) consultez un expert-comptable ou conseiller en gestion de patrimoine independant (CGPI). Un dispositif fiscal n'est jamais une bonne idee en soi : il doit correspondre a un projet reel (epargne retraite, soutien associatif, investissement immobilier que vous auriez fait de toute facon). Ne jamais investir uniquement pour l'economie d'impot.
+
+   b. **Leviers selon la TMI actuelle** :
+      - **TMI 0 %** : les reductions/deductions sont inutiles. Focus sur **credits d'impot remboursables** (emploi domicile, garde enfant, dons 75 %) et sur le **RFR** (LEP, cheque energie, MaPrimeRenov' modeste).
+      - **TMI 11 %** : PER peu interessant (economie 11 % vs blocage). Privilegier dons 66/75 %, emploi domicile, et preparer une montee en TMI.
+      - **TMI 30 %** : **PER devient tres attractif** (1 000 € verses = 300 € economises). Dons, FIP/FCPI JEI 25 %, emploi domicile, garde enfant.
+      - **TMI 41 % / 45 %** : PER au plafond, SOFICA 48 %, Girardin OM, Malraux, deficit foncier, Monuments historiques. Attention plafonnement niches 10 k€/18 k€.
+
+   c. **Dispositifs a envisager selon profil** (cocher ceux pertinents) :
+      - **Dons** : Resto du coeur / Secours populaire (75 % jusqu'a 2 000 € depuis 14/10/2025), associations classiques (66 %, plafond 20 % revenu). Fractionner sur plusieurs annees si depassement.
+      - **PER individuel** : ouvrir des maintenant meme avec petits versements pour "prendre date" et cumuler les plafonds N-1 a N-3 (N-5 a partir de 2026). Versement recommande en fin d'annee selon revenu effectif.
+      - **Emploi a domicile** : menage, jardinage, soutien scolaire -> credit 50 % meme sans IR du. CESU ou prestataire declare.
+      - **Travaux renovation energetique** : MaPrimeRenov' + deficit foncier (si locatif) + TVA 5,5 %. Entreprise RGE obligatoire.
+      - **PEA / Assurance-vie** : prendre date (clock des 5 / 8 ans) meme avec petits versements.
+      - **Forfait mobilites durables** : demander a l'employeur (velo, covoiturage, jusqu'a 600 €/an exoneres).
+      - **Abonnement presse IPG** : 1 seule fois par foyer, credit 30 %.
+
+   d. **Actions immediates pour l'annee en cours** :
+      - **Ajuster le taux PAS** en cas de changement de revenus (impots.gouv.fr > Gerer mon PAS).
+      - **Anticiper** : simuler son IR N+1 avec le simulateur officiel pour calibrer un versement PER ou un don avant le 31/12.
+      - **Conserver** recus et justificatifs des maintenant (dons, factures emploi domicile, RGE).
+
+   e. **Renvoi final** :
+      > Pour une strategie globale (choix PER assurantiel vs bancaire, arbitrage PEA/AV, timing des cessions de titres, integration IFI), un rendez-vous annuel avec un CGPI independant (honoraires, pas de retrocession) ou un expert-comptable est fortement recommande au-dela de 50 k€ de revenus ou en presence de patrimoine immobilier/financier significatif.
+
 ## Ton et posture
 
 - Vouvoiement, precis, pedagogique.
